@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html>
+  <!--  This source code is exported from pxCode, you can get more document from https://www.pxcode.io  -->
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+      integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/aos@2.3.1/dist/aos.css" />
+    <link rel="stylesheet" type="text/css" href="/css/common.css" />
+    <link rel="stylesheet" type="text/css" href="/css/fonts.css" />
+    <link rel="stylesheet" type="text/css" href="/css/About.css" />
+
+    <script type="text/javascript" src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/headroom.js@0.12.0/dist/headroom.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/px2code/posize/build/v1.00.6.js"></script>
+  </head>
+
+  <body style="display: flex; flex-direction: column">
+    <main class="about about-main layout">
+      <!-- ======= section1 ======= --> 
+      <section class="about-section1__section1 layout">
+        <div style="--src:url(/assets/93b2d11fd32a0f9ebaabebc1c8bcfa01.png)" class="about-section1__image layout"></div>
+        <div style="--src:url(/assets/2ae88868c5e7170594d1808b62297222.png)" class="about-section1__cover layout"></div>
+        <div style="--src:url(/assets/79c19217a412aa2ffd71df4f0c54d024.png)" class="about-section1__cover layout"></div>
+        <h1 class="about-section1__hero-title layout">About Us</h1>
+      </section>
+      <comment content="======= End section1 =======" break="true"></comment
+      ><!-- ======= section2 ======= --> 
+      <section class="about-section2__section2 layout">
+        <h1 class="about-section2__big-title-box layout">
+          <pre class="about-section2__big-title">
+NexGenHealth is focused on changing the way we think of and deliver
+wellness, not only in our healthcare system but also in our communities. Our pursuit is to change the narrative and culture around self-care, and to educate people about the science of connection and its impact on our collective health.
+</pre
+          >
+        </h1>
+      </section>
+      <comment content="======= End section2 =======" break="true"></comment
+      ><!-- ======= section3 ======= --> 
+      <section class="about-section3__section3 layout">
+        <div
+          style="--src:url(/assets/7ae8e6ad4e0892cf566043f18c3d0d54.png)"
+          class="about-section3__decorator layout"
+        ></div>
+        <div
+          style="--src:url(/assets/f76eb3ea737484987a2147410cbf6f91.png)"
+          class="about-section3__image6 layout"
+        ></div>
+        <div
+          style="--src:url(/assets/590912e202f57c21b3a862d5f668aaa0.png)"
+          class="about-section3__image6 layout1"
+        ></div>
+        <h1 class="about-section3__big-title-box layout">
+          <pre class="about-section3__big-title">
+we can all become
+practitioners of health and participate in the design and delivery of more
+evolved systems
+</pre
+          >
+        </h1>
+        <h1 class="about-section3__big-title-box layout1">
+          <pre class="about-section3__big-title">
+Our pursuit is to change the narrative and culture around self-care, and to educate people about the science of connection and its impact on our collective health.  
+
+</pre
+          >
+        </h1>
+      </section>
+      <comment content="======= End section3 =======" break="true"></comment
+      ><!-- ======= section4 ======= --> 
+      <section class="about-section4__section4 layout">
+        <div class="about-section4__box9 layout"></div>
+        <div class="about-section4__box9 layout1"></div>
+        <div class="about-section4__box10 layout"></div>
+        <div class="about-section4__box9 layout2"></div>
+        <div class="about-section4__box9 layout3"></div>
+        <h3 class="about-section4__subtitle1-box layout">
+          <pre class="about-section4__subtitle1">
+Continuing Medical Education (CME courses)
+</pre
+          >
+        </h3>
+        <div style="--src:url(/assets/9942ae88945965be55e96ee0160aec4a.png)" class="about-section4__block5 layout">
+          <div
+            style="--src:url(/assets/19693e6dc3b64ae7da5cc2cbc5c10d50.png)"
+            class="about-section4__block6 layout"
+          ></div>
+        </div>
+        <h2 class="about-section4__medium-title1 layout">Keynote Lectures</h2>
+        <h2 class="about-section4__medium-title11-box layout">
+          <pre class="about-section4__medium-title11">
+Half-day to Multi-day Workshops 
+</pre
+          >
+        </h2>
+        <h2 class="about-section4__medium-title12-box layout">
+          <pre class="about-section4__medium-title12">
+Experiential Retreats
+</pre
+          >
+        </h2>
+        <h3 class="about-section4__subtitle layout">Online and In-Person</h3>
+        <div style="--src:url(/assets/7314aeefc322e9433c6a53989aee883c.png)" class="about-section4__block7 layout">
+          <div
+            style="--src:url(/assets/c9249e92e7279cdb7896e832a4764cd5.png)"
+            class="about-section4__block8 layout"
+          ></div>
+        </div>
+        <div style="--src:url(/assets/7314aeefc322e9433c6a53989aee883c.png)" class="about-section4__block9 layout">
+          <div
+            style="--src:url(/assets/f2e5b527e7bc8e2f60c607c686adf9b2.png)"
+            class="about-section4__block10 layout"
+          ></div>
+        </div>
+        <div style="--src:url(/assets/7314aeefc322e9433c6a53989aee883c.png)" class="about-section4__block11 layout">
+          <div
+            style="--src:url(/assets/194818ccafc94520627c223217f72e4e.png)"
+            class="about-section4__block12 layout"
+          ></div>
+        </div>
+        <div style="--src:url(/assets/7314aeefc322e9433c6a53989aee883c.png)" class="about-section4__block13 layout">
+          <div
+            style="--src:url(/assets/9a39be62da9f832a26d57e5d31088541.png)"
+            class="about-section4__block8 layout1"
+          ></div>
+        </div>
+      </section>
+      <comment content="======= End section4 =======" break="true"></comment
+      ><!-- ======= section5 ======= --> 
+      <section class="about-section5__section5 layout">
+        <h1 class="about-section5__big-title-box layout">
+          <pre class="about-section5__big-title"><span class="about-section5__big-title-span0"> I
+personally experienced significant symptoms of burnout in my very first year of
+full time Radiology practice, after 14 years of study, including medical school, residency and fellowship.  The medical system should support practitioners
+to lead by example, but instead, our current model challenges all aspects of our
+physical, emotional and spiritual health. The medical community
+is not alone in its
+vulnerability
+to burnout and compassion fatigue.  As a society we are more exhausted, anxious and burned out than ever before.   We glorify an unsustainable level of “workaholism” and create an unhealthy environment where we are expected to function optimally.  We have the research to support a better approach to wellness, yet the old mindset and ingrained values hold us back from leveraging our greatest potential as healers and leaders. It is my passion to inspire the implementation of </span><span class="about-section5__big-title-span1">mindful </span><span class="about-section5__big-title-span2">and</span><span class="about-section5__big-title-span3"> heartful</span><span class="about-section5__big-title-span4"> strategies in healthcare, organizations and community, to support individual and collective health.
+
+The more we begin operating as a society that understands how personal health affects our collective well being, the more we will be able to nurture these connections, address the rampant burnout, anxiety and depression in our society today, and come together in our common humanity.</span></pre>
+        </h1>
+        <div
+          style="--src:url(/assets/f4508e4389526edbf846f1fe43f14c3e.png)"
+          class="about-section5__image1 layout"
+        ></div>
+        <h1 class="about-section5__hero-title2 layout">ABOUT dr. mitch abrams</h1>
+      </section>
+      <!-- ======= End section5 ======= --> 
+
+      <div class="about-main-item">
+        <!-- ======= section6 ======= --> 
+        <section class="about-section6__section6 layout">
+          <div class="about-section6__box11 layout"></div>
+          <div class="about-section6__box11 layout1"></div>
+          <div class="about-section6__box11 layout2"></div>
+          <px-posize x="286fr 55px 1099fr" y="91px 44px 240px" absolute="true"
+            ><div class="about-section6__image10" style="--src:url(/assets/3979bc6fbb6365a0d17c4d415c42df0c.png)"></div
+          ></px-posize>
+          <h1 class="about-section6__big-title4 layout">Your personal wellbeing impacts everyone.</h1>
+          <div
+            style="--src:url(/assets/3979bc6fbb6365a0d17c4d415c42df0c.png)"
+            class="about-section6__image101 layout"
+          ></div>
+          <h1 class="about-section6__big-title4 layout1">We are all connected.</h1>
+          <px-posize x="1100fr 55px 285fr" y="91px 44px 240px" absolute="true"
+            ><div class="about-section6__image10" style="--src:url(/assets/1ec84RnVEvvPT4wufEB5vPDkE7QrpRwNG.png)"></div
+          ></px-posize>
+          <h1 class="about-section6__big-title4 layout2">Local-is-Global.</h1>
+        </section>
+        <!-- ======= End section6 ======= --> 
+
+      </div>
+      <!-- ======= section7 ======= --> 
+      <section class="about-section7__section7 layout">
+        <div class="about-section7__box layout"></div>
+        <div class="about-section7__box layout1"></div>
+        <h1 class="about-section7__hero-title1-box layout">
+          <pre class="about-section7__hero-title1">Biographies: </pre>
+        </h1>
+        <h1 class="about-section7__hero-title11 layout">Meet The Team</h1>
+        <div
+          style="--src:url(/assets/2bd17586df8d1b1b695fa72b156caac1.png)"
+          class="about-section7__image2 layout"
+        ></div>
+        <div
+          style="--src:url(/assets/10fe01994a496835ef041f7f67032a53.png)"
+          class="about-section7__image3 layout"
+        ></div>
+        <h1 class="about-section7__big-title layout">Dr. Mitchell Abrams</h1>
+        <h1 class="about-section7__big-title layout1">Jody Bresgi</h1>
+        <h1 class="about-section7__big-title layout2">View Profile</h1>
+        <h1 class="about-section7__big-title layout3">View Profile</h1>
+      </section>
+      <comment content="======= End section7 =======" break="true"></comment
+      ><!-- ======= section8 ======= --> 
+      <section class="about-section8__section8 layout">
+        <div class="about-section8__block1 layout">
+          <div class="about-section8__box1 layout"></div>
+          <div class="about-section8__block2 layout">
+            <h1 class="about-section8__big-title-box layout">
+              <pre
+                class="about-section8__big-title"
+              ><span class="about-section8__big-title-span0">Dr. Mitchell Abrams B.Sc., MD, FRCPC, 
+</span><span class="about-section8__big-title-span1">Founder, CEO</span><span class="about-section8__big-title-span2">
+</span></pre>
+            </h1>
+          </div>
+          <div
+            style="--src:url(/assets/33b0ccf0c912adb2a2cacfdf06c7da9d.png)"
+            class="about-section8__image4 layout"
+          ></div>
+          <h2 class="about-section8__medium-title-box layout">
+            <pre class="about-section8__medium-title">
+Dr. Mitchell Abrams is a Canadian Radiologist, keynote speaker, teacher and founder of NexGenHealth Ltd..  Abrams completed his medical degree and 
+
+radiology specialty from Dalhousie University in Nova Scotia, Canada, holds a subspecialty in Cross Sectional Imaging from the University of Toronto and is a Fellow of the Royal College of Physicians and Surgeons of Canada. Dr. Abrams is an Associate Professor at Michael G Degroote School of Medical Sciences and was Interim Department Chair of Diagnostic Imaging at Cambridge Memorial Hospital.  As part of a social impact initiative, Dr. Abrams is currently leading a capstone project (through Stanford University&#x27;s Center for Compassion and Altruism Research and Education in the School of Medicine, Department of Neurosurgery) to create a sustainable fundraising model in support of mental health and resilience training for youth education, communities in need, and to support clinical research. This model leverages art, music and technology as tools to educate, heal and inspire.
+</pre
+            >
+          </h2>
+          <h2 class="about-section8__medium-title-box layout1">
+            <pre class="about-section8__medium-title">
+ 
+Early in his radiology career, Dr. Abrams was diagnosed with Hypertrophic Obstructive Cardiomyopathy, a disease that can lead to sudden cardiac death in seemingly fit and healthy young people. He required open heart surgery in order to prevent the worst-case scenario. It was this experience as patient, coupled with his roles as physician and department chair, that provided him with an intimate view of the inner workings of our healthcare system. He became acutely aware of the limitations and gaps in our current model of care. This realization became a passion and drove him down a path of research and experiential learning with experts around the globe, looking at different approaches to healing. In particular, Dr. Mitch’s background in radiology and his understanding of physics, supported a deep investigation into the nature of energy and how we best thrive. The intersection between his life in science and this powerful experience with healing, provided the foundation of what his life-mission has become - to support and promote a more holistic model of healthcare. As part of his mission, Dr. Mitch founded NexGenHealth: a social enterprise to bring forth a new paradigm in self-care, patient care, and community wellness. </pre
+            >
+          </h2>
+          <div class="about-section8__box2 layout"></div>
+          <h1 class="about-section8__big-title1-box layout">
+            <pre class="about-section8__big-title1">
+“ As a physician and a patient, I embarked on a journey to identify a more holistic and more effective approach to healing and health.  I spent over a decade investigating, practicing, researching and amalgamating my learning in order to bring this knowledge to you.   I come to you with personal stories, the latest research and a new vision for a brighter and more harmonious vision for humanity.” 
+~ Dr. Mitch Abram
+</pre
+            >
+          </h1>
+          <div style="--src:url(/assets/c79389b66900552eb13380c148a0debb.png)" class="about-section8__block3 layout">
+            <div
+              style="--src:url(/assets/fd764778e6e8d017544f41515973d9cc.png)"
+              class="about-section8__icon1 layout"
+            ></div>
+          </div>
+        </div>
+      </section>
+      <comment content="======= End section8 =======" break="true"></comment
+      ><!-- ======= section9 ======= --> 
+      <section class="about-section9__section9 layout">
+        <div class="about-section9__block14 layout">
+          <div
+            style="--src:url(/assets/2edf2e14ea8605f6c1fc78d04ba88a9b.png)"
+            class="about-section9__image11 layout"
+          ></div>
+          <h2 class="about-section9__medium-title-box layout">
+            <pre class="about-section9__medium-title">
+Jody holds an honours B.A. from York University and a Masters in Business from Ivey School of Business at the University of Western Ontario.  She is a Certified Nutritional Practitioner and was valedictorian of her graduating class at the Institute of Holistic Nutrition.  Jody is co-founder of Canadian Men’s Clinic - a medical clinic based in Toronto specializing in men’s health.  She was also Dir. of Marketing &amp; Clinical Research as well as Business Development Lead supporting the company’s growth for more than a decade. Jody’s interest in research led her to become certified through The Association of Clinical Research Professionals (ACRP).  She developed a clinical research division at the Canadian Men’s Clinic, running many phase 3 and 4 clinical trials, as well as establishing a vasectomy division. </pre
+            >
+          </h2>
+          <h2 class="about-section9__medium-title-box layout1">
+            <pre class="about-section9__medium-title">
+As a result of her holistic background, Jody is passionate about helping people transition to a healthier lifestyle, through diet, exercise and other holistic approaches.  Jody inspires people to take control of their own well being.  She believes that the body holds wisdom, and by prioritizing self-care, access to nature, love, community connections and support, we can help create an environment where health can manifest more readily.
+</pre
+            >
+          </h2>
+        </div>
+        <div class="about-section9__block2 layout">
+          <h1 class="about-section9__big-title-box layout">
+            <pre class="about-section9__big-title"><span class="about-section9__big-title-span0">Jody Bresgi, 
+ BA (Hons), MBA, CNP 
+</span><span class="about-section9__big-title-span1">COO
+</span></pre>
+          </h1>
+        </div>
+        <div style="--src:url(/assets/c79389b66900552eb13380c148a0debb.png)" class="about-section9__block3 layout">
+          <div
+            style="--src:url(/assets/fd764778e6e8d017544f41515973d9cc.png)"
+            class="about-section9__icon1 layout"
+          ></div>
+        </div>
+      </section>
+      <comment content="======= End section9 =======" break="true"></comment
+      ><!-- ======= section10 ======= --> 
+      <section class="about-section10__section10 layout">
+        <div class="about-section10__block4 layout">
+          <h1 class="about-section10__hero-title3 layout">Contact us</h1>
+          <hr class="about-section10__line layout" />
+          <hr class="about-section10__line1 layout" />
+          <hr class="about-section10__line2 layout" />
+          <px-posize x="73fr 43px 1324fr" y="181px 34px 586px" absolute="true"
+            ><div
+              class="about-section10__image5"
+              style="--src:url(/assets/b04dbd3752aca2259bb2f8a2b8595d66.png)"
+            ></div></px-posize
+          ><px-posize x="77fr 40px 1323fr" y="269px 40px 492px" absolute="true"
+            ><div
+              class="about-section10__icon2"
+              style="--src:url(/assets/ce455852fd2af7555bd6eeb2bffdf54b.png)"
+            ></div></px-posize
+          ><px-posize x="68fr 53px 1319fr" y="358px 53px 390px" absolute="true"
+            ><div class="about-section10__icon3" style="--src:url(/assets/98245247e5f752f6e57d7159c6788d8d.png)"></div
+          ></px-posize>
+          <h3 class="about-section10__subtitle layout">info@NexGenHealth.solutions</h3>
+          <h3 class="about-section10__subtitle layout1">+1 (289) 301-5551</h3>
+          <h3 class="about-section10__subtitle layout2">Toronto, canada</h3>
+          <h1 class="about-section10__hero-title3 layout1">Quick Links</h1>
+          <h1 class="about-section10__hero-title3 layout2">Our Services</h1>
+          <h1 class="about-section10__hero-title3 layout3">We’d Love To Hear From You !</h1>
+          <h3 class="about-section10__subtitle1-box layout">
+            <pre class="about-section10__subtitle1">
+About us
+Fundraising
+Donate
+Faq
+Contact us</pre
+            >
+          </h3>
+          <h3 class="about-section10__subtitle2-box layout">
+            <pre class="about-section10__subtitle2">
+Programs
+Reels
+Research
+Fundraising
+</pre
+            >
+          </h3>
+          <div class="about-section10__box4 layout"></div>
+          <div class="about-section10__box5 layout"></div>
+          <div class="about-section10__box6 layout"></div>
+          <div class="about-section10__box7 layout"></div>
+          <h1 class="about-section10__big-title2 layout">Name</h1>
+          <h1 class="about-section10__big-title2 layout1">Phone</h1>
+          <h1 class="about-section10__big-title2 layout2">Message</h1>
+          <h1 class="about-section10__big-title3 layout">Submit</h1>
+          <div class="about-section10__box8 layout"></div>
+          <h3 class="about-section10__subtitle3 layout">copyright © 2022 NexGenHealth Ltd.</h3>
+        </div>
+      </section>
+      <!-- ======= End section10 ======= --> 
+
+    </main>
+    <script type="text/javascript">
+      AOS.init();
+    </script>
+  </body>
+</html>
